@@ -1,0 +1,10 @@
+{
+  "platform": "luogu",
+  "id": "P1001",
+  "title": "A+B Problem",
+  "description": "求两个整数 $a$ 与 $b$ 的和。每个数的绝对值至多为 $10^9$。",
+  "input_format": "一行两个整数 `a b`。",
+  "output_format": "一行一个整数，表示它们的和。",
+  "difficulty": "入门",
+  "samples": [{"input": "20 30\n", "output": "50\n"}]
+}
